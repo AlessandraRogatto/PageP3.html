@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+header{
+    background-color: white;
+    background-image: url("imagem/fundo.jpg");
+    background-size: 100px 50px;
+    background-repeat: no-repeat;
+}
+
+
+.tituloRotina{
+    font-size: 2em;
+    color: white;
+}
+hr {
+    border: none;
+    border-top: 5px solid #082565; /* Define a cor e a espessura da linha */
+    margin: 20px 0; /* Adiciona espaço acima e abaixo da linha */
+}
+.modelo{
+    border: 5px solid #082565;
+    margin: 10px;
+}
+
+div{
+    margin: 10px;
+}
